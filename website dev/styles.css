@@ -1,0 +1,20 @@
+body{background-color: blue;}
+
+h1{background-color: #EDE480;
+	font-family: verdana;
+	font-size: 45px;
+	text-align: center;
+	padding-top: 15px;
+	border-style: dashed;
+}
+
+img{border-style: groove;
+	border-width: 2px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+
+
+}
